@@ -1,4 +1,4 @@
-# Last Resort Font
+ # Last Resort Font
 
 *Last Resort* is a special-purpose font that includes a collection of glyphs to represent types of Unicode characters. These glyphs are specifically designed to allow users to recognize that a code point is one of the following:
 
